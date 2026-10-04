@@ -1,0 +1,26 @@
+# Airflow
+logs/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.aws/
+*.pem
+*.key
+
+# AWS credentials
+credentials
+credentials.txt
+
+# Python
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
